@@ -1,0 +1,38 @@
+{
+    "projectText": "Apricot (APRICOT)",
+    "storyText": "Task",
+    "priorityText": "Medium",
+    "teamText": "OMS & Interior Assistant",
+    "lableText": "OMS-Testing",
+    "jiraLogin": "https://issue.swf.daimler.com/login.jsp?os_destination=%2Fsecure%2FCreateIssue%21default.jspa",
+    "jiraCreate": "https://issue.swf.daimler.com/secure/CreateIssue!default.jspa",
+    "test": "test",
+    "teamMembers_mail": {
+        "Anila": "altran.b_p@daimler.com",
+        "Mohan": "mohan.bhakri@daimler.com",
+        "Nizam": "altran.junaid@daimler.com",
+        "Sabarish": "altran.k@daimler.com",
+        "Sreekanth": "sreekanth.kasetty@daimler.com",
+        "Sunil": "sunil.ganesan@daimler.com",
+        "Usha": "usharani.ravada@daimler.com",
+        "Vignesh": "harman.karunagaran@daimler.com",
+        "Richa": "capgemini.nayak@daimler.com",
+        "Yugandhar": "altran.sai_boddu@mercedes-benz.com",
+        "Raj Shekar": "harman.naidu@mercedes-benz.com",
+        "Rohini": "altran.shanu@mercedes-benz.com"
+    },
+    "teamMembers": {
+        "Anila": "anilabp",
+        "Mohan": "mbhakri",
+        "Nizam": "mojunai",
+        "Raj Shekar": "rajnaid",
+        "Richa": "rinayak",
+        "Rohini": "roshanu",
+        "Sabarish": "sabark",
+        "Sreekanth": "skasett",
+        "Sunil": "sgaesan",
+        "Usha": "uravada",
+        "Vignesh": "vikarun",
+        "Yugandhar": "ysaibod"
+    }
+}
